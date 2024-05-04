@@ -41,13 +41,7 @@
     "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
     "image": "images/grilled-chicken-sandwich.jpg"
   },
-  {
-    "id": "m7",
-    "name": "Steak Frites",
-    "price": "17.99",
-    "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
-    "image": "images/steak-frites.jpg"
-  },
+
   {
     "id": "m8",
     "name": "Sushi Roll Platter",
@@ -90,13 +84,7 @@
     "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
     "image": "images/miso-ramen.jpg"
   },
-  {
-    "id": "m14",
-    "name": "Beef Tacos",
-    "price": "9.99",
-    "description": "Three soft tortillas filled with seasoned beef, fresh salsa, cheese, and sour cream.",
-    "image": "images/beef-tacos.jpg"
-  },
+
   {
     "id": "m15",
     "name": "Chocolate Brownie",

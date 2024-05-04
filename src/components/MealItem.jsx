@@ -15,7 +15,7 @@ export default function MealItem({ meal }) {
         <div>
           <h3>{meal.name}</h3>
           <p className="meal-item-price">
-            {currencyFormatter.format(Math.round(meal.price * 82))}
+            {currencyFormatter.format(Math.round(meal.price * 20))}
           </p>
           <p className="meal-item-description">{meal.description}</p>
         </div>
